@@ -1,8 +1,17 @@
 # Hey there 👋
 
-### I am Ankur Sehrawat Pursuing B.tech in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
+### I am Ankur Sehrawat
+
+- Pursuing B.Tech in Computer Science with specialization in DevOps;
+- I'm currently learning web Dev;
+- I'm also learning Docker,Jenkins and other DevOps Tools;
+- Reach out to me : ankursehrawats15099@gmail.com;
+
+<br>
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ankursehrawat15&show_icons=true&theme=dark)
+
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursehrawat15&layout=compact&theme=dark)
 
 # Follow me on
