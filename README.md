@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hey there 👋
 
 ### I am Ankur Sehrawat Pursuing B.tech in Computer Science Engineering with specialization in DevOps at UPES, Dehradun
 
