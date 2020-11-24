@@ -22,11 +22,14 @@
 <a href="https://www.instagram.com/meankursehrawat/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<br>
+
+<br>
+
+<br>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ankursehrawat15&show_icons=true&theme=dark)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankursehrawat15&layout=compact&theme=dark)
-
-<br>
 
 <br>
 
