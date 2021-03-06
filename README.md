@@ -3,7 +3,7 @@
 ### I am Ankur Sehrawat
 
 - 💸 Pursuing B.Tech in Computer Science with specialization in DevOps;
-- 📚 I'm currently learning web Dev;
+- 📚 I'm currently learning Android Development;
 - 📚 I'm also learning Docker,Jenkins and other DevOps Tools;
 - 📩 Reach out to me : ankursehrawats15099@gmail.com;
   <br>
