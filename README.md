@@ -17,6 +17,15 @@
 <a href="https://github.com/Ankursehrawat15"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankursehrawat15&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <Br>
   
+  <h3> 🤝🏻 Connect with Me </h3>
+
+<p align="center">
+&nbsp; <a href="https://www.linkedin.com/in/ankur-sehrawat-312b961a3/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:ankursherawat15@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://twitter.com/AnkurSehrawat15" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
+&nbsp; <a href="https://www.instagram.com/meankursehrawat/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+</p>
+  
   #### **Visitor Count**
  ![Visitor Count](https://profile-counter.glitch.me/{ankursehrawat15}/count.svg)
 
