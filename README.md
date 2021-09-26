@@ -1,19 +1,17 @@
-### Hi there 👋
+<h2> Hey there! I'm Ankur. <img src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/Hi.gif" width="25"></h2>
 <br> [![Profile views](https://komarev.com/ghpvc/?username=ankursehrawat15&label=Profile%20views)](https://github.com/Ankursehrawat15)
-<!--
-**Ankursehrawat15/Ankursehrawat15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/gif4.gif" width="500"/>
 
-Here are some ideas to get you started:
+<h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; Currently working On My Android Skills 
+- 🤔 &nbsp; Exploring new technologies and quick hacks and making boring stuffs automated.
+- 🎓 &nbsp; Studying Computer Science with Specialization in DevOps
+- 💼 &nbsp; Android developer.
+- 🌱 &nbsp; BlockChain Enthusiast. 
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for stress. 
+
 
 
 <a href="https://github.com/Ankursehrawat15"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankursehrawat15&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
