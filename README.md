@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Ankur. <img src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/Hi.gif" width="25"></h2>
 
 <img align="right" alt="GIF" src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/gif4.gif" width="400"/>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankursehrawat15&label=Profile%20views&color=0e75b6&style=flat" alt="Ankur sehrawat" /> </p>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 💼 &nbsp; Android developer.
