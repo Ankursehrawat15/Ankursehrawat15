@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Ankur. <img src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/Hi.gif" width="25"></h2>
 
-<img align="right" alt="GIF" src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/gif4.gif" width="500"/>
+<img align="right" alt="GIF" src="https://github.com/Ankursehrawat15/Ankursehrawat15/blob/master/Images_Giphy/gif4.gif" width="400"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
