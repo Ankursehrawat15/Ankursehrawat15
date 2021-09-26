@@ -12,10 +12,10 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for stress. 
 
-<Br>
 
+<br>
 <a href="https://github.com/Ankursehrawat15"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ankursehrawat15&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-<Br>
+</br>
   
   <h3> 🤝🏻 Connect with Me </h3>
 
