@@ -14,13 +14,16 @@ I build practical software with Python, AI, and thoughtful user experiences. Cur
 
 <br></br>
 
+<h3> Token Usuage </h3>
+
+[![ankur-sehrawatt's AI token usage](https://whoburnedmore.com/api/embeds/ankur-sehrawatt?style=activity&theme=dark&accent=mint&period=all)](https://whoburnedmore.com/u/ankur-sehrawatt?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
 
 
 
 
 
 
-
+<br></br>
 <p align="center">
 &nbsp; <a href="https://www.linkedin.com/in/ankur-sehrawat-312b961a3/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="mailto:ankursherawat150999@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
