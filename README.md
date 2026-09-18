@@ -11,10 +11,7 @@ I build practical software with Python, AI, and thoughtful user experiences. Cur
   A local LangChain Agent that compares a job description to a resume PDF and returns a structured match analysis: score, matched vs missing skills, strengths, gaps, verdict, and evidence quotes.It runs on Ollama (no cloud API required for the core loop). Tech Used: `Python`  `LangChain`   `Ollama`   `Pydantic`   `Streamlit`  
 
 
-
-<br></br>
-
-<h3> Token Usuage </h3>
+<h3> AI Usuage Overview </h3>
 
 [![ankur-sehrawatt's AI token usage](https://whoburnedmore.com/api/embeds/ankur-sehrawatt?style=activity&theme=dark&accent=mint&period=all)](https://whoburnedmore.com/u/ankur-sehrawatt?utm_source=github&utm_medium=profile&utm_campaign=usage-card)
 
