@@ -5,8 +5,11 @@
 <h3> 👨🏻‍💻 About Me </h3>
 I build practical software with Python, AI, and thoughtful user experiences. Currently exploring local LLM applications, agentic workflows, and tools that make career and knowledge work more useful.
 
-<h3> Latest AI dependent projects </h3>
+<h3> Latest projects </h3>
 
+- [Shoji Mac App](https://shojimac.com)
+  A local privacy-oriented Mac App that arranges all your windows in auto mode.
+  
 - [RoleFit AI Agent](https://github.com/Ankursehrawat15/Resume-JD-Analysis-LangChain-Agent-)
   A local LangChain Agent that compares a job description to a resume PDF and returns a structured match analysis: score, matched vs missing skills, strengths, gaps, verdict, and evidence quotes.It runs on Ollama (no cloud API required for the core loop). Tech Used: `Python`  `LangChain`   `Ollama`   `Pydantic`   `Streamlit`  
 
